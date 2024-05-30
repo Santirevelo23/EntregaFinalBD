@@ -1,0 +1,19 @@
+
+h
+java:S1192:"FDefine a constant instead of duplicating this literal "Error" 3 times.(ƒÖïùÿÿÿÿ8£™¯ìú1
+J
+java:S1604."(Make this anonymous inner class a lambda(Ö¿Ÿåúÿÿÿÿ8¤™¯ìú1
+E
+java:S1604C"(Make this anonymous inner class a lambda(Áßö8¤™¯ìú1
+J
+java:S1604\"(Make this anonymous inner class a lambda(Ö¿Ÿåúÿÿÿÿ8¤™¯ìú1
+P
+java:S1948"3Make "medicosRepository" transient or serializable.(Íéúª8¶™¯ìú1
+R
+java:S1948"5Make "pacientesRepository" transient or serializable.(À¢Ê8·™¯ìú1
+Z
+java:S1948"8Make "tratamientosRepository" transient or serializable.(—ÁÑˆüÿÿÿÿ8·™¯ìú1
+k
+java:S3252"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(Õû»öşÿÿÿÿ8¸™¯ìú1
+S
+java:S1068"6Remove this unused "masDeUnTratamiento" private field.(ŒáÒÊ8Â™¯ìú1
